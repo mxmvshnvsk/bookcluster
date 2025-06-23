@@ -1,5 +1,7 @@
 <script setup></script>
 
 <template>
-  <router-view />
+  <div>
+    Book Cluster
+  </div>
 </template>
